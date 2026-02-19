@@ -20,3 +20,4 @@ Pode ser necessário ajustar as coordenadas da região analisada.
 ## 🎮 Demonstração
 ![Demonstração do Bot](dino.gif)
 
+
