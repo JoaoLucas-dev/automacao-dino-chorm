@@ -18,4 +18,5 @@ A automação depende da resolução da tela.
 Pode ser necessário ajustar as coordenadas da região analisada.
 
 ## 🎮 Demonstração
-![Demonstração do Bot](dino.mp4)
+![Demonstração do Bot](dino.gif)
+
