@@ -6,10 +6,11 @@ Bot em Python que joga automaticamente o jogo do dinossauro do Google Chrome usa
 - Python
 - PyAutoGUI
 - Pillow
+- Mouseinfo 
 
 ## 🎮 Como usar
-1. Abra o jogo do Dino no Chrome
-2. Execute o script
+1. Execute o script
+2. ele automaticamente irá entrar no chorme e iniciará o jogo
 3. Aguarde 3 segundos
 4. O bot começará a jogar sozinho
 
@@ -19,5 +20,6 @@ Pode ser necessário ajustar as coordenadas da região analisada.
 
 ## 🎮 Demonstração
 ![Demonstração do Bot](dino.gif)
+
 
 
